@@ -1,0 +1,29 @@
+{
+  "name": "@grapecity/spread-sheets-designer-vue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description":"A Complete Microsoft Excel-like JavaScript Spreadsheet for Enterprise Applications",
+  "scripts": {},
+  "keywords": [
+    "spread-sheets",
+    "javascript spreadsheet",
+    "javascript excel",
+    "excel io",
+    "sheets",
+    "sheet",
+    "designer",
+    "javascript",
+    "excel",
+    "grapecity",
+    "spreadjs",
+    "spreaddesigner"
+  ],
+  "dependencies": { 
+  },
+  "author": {
+    "email": "us.sales@grapecity.com",
+    "name": "GrapeCity, Inc"
+  },
+  "homepage": "https://www.grapecity.com/spreadjs",
+  "license": "Commercial"
+}
